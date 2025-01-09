@@ -1,0 +1,13 @@
+# Arquivo de variáveis de ambiente
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs de depuração
+*.log
+
+# Cache e arquivos temporários
+*.tmp
+*.cache
